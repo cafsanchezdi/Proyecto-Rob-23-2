@@ -47,6 +47,38 @@ En el repositorio de este proyecto se encuentra lo siguiente:
 
 ## 3. Proceso
 
+#### 3.1 Definición del Problema
+
+La problemática identificada en la industria, donde tareas manuales en el proceso de alistamiento de pedidos pueden ser optimizadas, sirvió como punto de partida. La pregunta clave fue formulada: "¿Cómo podemos lograr la automatización segura y eficiente del proceso de Pick & Place utilizando un brazo manipulador industrial?"
+
+#### 3.2 Inspiración en el Amazon Packing Challenge
+
+Inspirados en el Amazon Packing Challenge, especialmente en la versión simplificada detallada en el artículo "A Summary of MIT’s Approach to the Amazon Picking Challenge 2015", definimos nuestro objetivo: despachar un pedido de tres objetos dispuestos aleatoriamente en una estantería de 3 filas y 2 columnas.
+
+#### 3.3 Diseño del Sistema Robotizado
+
+Después de seleccionar el manipulador industrial ABB IRB 140, llevamos a cabo mediciones precisas y consideramos las dimensiones de la estantería BAGGEBO para garantizar un posicionamiento preciso de los objetos.
+
+#### 3.4 Desarrollo del Gripper
+
+Diseñamos un gripper personalizado, adaptado a nuestras necesidades específicas de agarre. Se seleccionaron válvulas electromecánicas para controlar las operaciones del gripper. Este fue fabricado mediante impresión 3D utilizando material TPU para lograr flexibilidad y resistencia.
+
+#### 3.5 Alistamiento Manual y Análisis de Tiempos
+
+Realizamos pruebas manuales para determinar el tiempo promedio de alistamiento en diversas combinaciones. La ubicación de la estantería y los objetos se ajustó manualmente al inicio del proceso, simulando las condiciones reales de operación.
+
+#### 3.6 Programación del Sistema
+
+El código RAPID fue desarrollado para definir las rutinas del robot, incluyendo las operaciones de agarre, traslado y depósito de objetos. Implementamos una interfaz humano-máquina utilizando ScreenMaker en RobotStudio para facilitar la interacción y selección de objetos.
+
+#### 3.7 Integración y Pruebas Exhaustivas
+
+Integramos todas las componentes del sistema, incluyendo el gripper, la estantería y la interfaz. Realizamos pruebas exhaustivas para validar el funcionamiento del sistema en diversos escenarios, asegurándonos de su eficacia y seguridad.
+
+#### 3.8 Documentación y Presentación
+
+Cuidadosamente documentamos cada fase del proyecto, destacando desafíos enfrentados y lecciones aprendidas. Preparamos un video de presentación que incluye la simulación en RobotStudio, la implementación del proyecto y una comparación de tiempos entre el alistamiento manual y el proceso automatizado.
+
 ## 4. Gripper
 
 ### 4.1 Diseño
