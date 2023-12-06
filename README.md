@@ -67,12 +67,12 @@ En el repositorio de este proyecto se encuentra lo siguiente:
 
 ### 7.2 Ubicaciones
 
-## 8. Simulación RobotStudio
+## 8. Simulación Robot Studio
 
 ## 9. Resultado Final
 
 ### 9.1 Video YouTube
 
-## 10. Análisis de tiempos
+## 10. Análisis de Tiempos
 
 ## 11. Conclusiones
