@@ -5,11 +5,11 @@
 ![](./Imgs/ESCUDO.png)
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Carlos Sánchez
+- Manuel Carranza
+- Eduardo Cuadros
 - Victor Davila
-- Nombre 5
+- Oscar Restrepo
 - Felipe Cruz Vásquez
 
 ## Contenido
