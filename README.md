@@ -44,6 +44,12 @@ En el repositorio de este proyecto se encuentra lo siguiente:
 ## 1. Introducción
 
 ## 2. Objetivos
+-	Desarrollar un sistema robotizado para la automatización del proceso de Pick & Place y alistamiento de pedidos. 
+-	Validar simulaciones de funcionamiento de un robot en actividades Pick & Place empleando el software RobotStudio
+-	Diseñar una herramienta para pick and place de objetos con diferentes geometrías. 
+-	Desarrollar una interfaz con la que un operario pueda darle instrucciones correctas al robot para el proceso de Pick & Place
+-	Verificar el funcionamiento del código de programación de RAPID y el uso de la interfaz en el robot industrial del LabSIR
+-	Usar sistemas electroneumáticos en conjunto con el sistema robótico del LabSIR
 
 ## 3. Proceso
 
