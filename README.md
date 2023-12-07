@@ -106,11 +106,13 @@ En lo que respecta a la construcción del gripper, es relevante subrayar que tod
 
 <img width="650" alt="Screenshot 2023-12-07 at 01 31 55" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/f12f8874-3e8f-4e24-9623-9dd190256cb5">
 
+La elección de utilizar TPU (poliuretano termoplástico) como material de fabricación para los dedos del gripper surge de la necesidad de manipular objetos con diversas geometrías de manera eficiente. La flexibilidad inherente de este material se ha seleccionado específicamente para simplificar esta tarea, permitiendo al gripper adaptarse a diferentes formas y tamaños de elementos a manipular de manera más efectiva. La capacidad del TPU para proporcionar cierto grado de deformación y elasticidad resulta fundamental para optimizar la versatilidad del gripper en la manipulación de objetos con variadas características geométricas.
+
+<img width="486" alt="Screenshot 2023-12-07 at 01 33 03" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/17294289-345a-4ff9-ad12-16934feebd80">
+
 
 
 <img width="370" alt="Screenshot 2023-12-07 at 01 32 28" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/796a3e01-1b6f-48d2-9b6f-3270c352d300">
-
-<img width="486" alt="Screenshot 2023-12-07 at 01 33 03" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/17294289-345a-4ff9-ad12-16934feebd80">
 
 
 ### 4.3 Planos
