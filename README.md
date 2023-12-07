@@ -499,9 +499,17 @@ ENDMODULE
 ```
 
 ## 7. Alistamiento
+**Estantería:**
 
-### 7.1 Elementos
+La estantería consta de 6 posiciones designadas como 1, 2, 3, 4, 5, y 6, asignadas por pares en orden descendiente de los estantes. En cada posición se ubica una pieza a ser movida, en la siguiente imagen se puede apreciar la ubicación de las piezas en la estantería y las marcas que denotan las posiciones.
+
 ![Estantería con las marcas de las posiciones.](./Imgs/Estant1.png)
+
+**Posicionamiento de los elementos**
+
+Tanto la estantería como las piezas en cada una de las posiciones pueden ser ubicadas en el espacio de trabajo diestro del manipulador. Cualquier ajuste se realizará con el brazo inmóvil y solo al inicio del proceso.
+
+El gripper se encuentra rotado de manera que el plano de aproximación de la pinza sea perpendicular a la orientación de los objetos, facilitando de esta manera el agarre de los mismos.
 ### 7.2 Ubicaciones
 
 ## 8. Simulación Robot Studio
