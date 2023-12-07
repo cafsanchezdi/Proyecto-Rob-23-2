@@ -42,6 +42,11 @@ En el repositorio de este proyecto se encuentra lo siguiente:
 - [11. Conclusiones](#11-conclusiones)
 
 ## 1. Introducción
+El Pick & place es la operación o tarea de recoger cosas de un lugar y colocarlas en otro. Este tipo de actividades se encuadran dentro de las actividades con una menor ergonomía de toda la cadena de producción, por lo que representan una carga extra, mental y física, para los trabajadores. Este tipo de tarea logística existe en casi todas las empresas manufactureras y, aunque se suelen asociar al final de la línea de producción, se pueden ver en mayor o menor medida en segmentos intermedios en algunas plantas.
+
+En el presente proyecto del curso de Robótica de la Universidad Nacional de Colombia, sede Bogotá, se hace un acercamiento al proceso de automatización de procesos de Pick & Place empleando los robots industriales ABB presentes en el LabSIR. Se toman objetos de diferentes formas y en diferentes posiciones de un estante de 3 niveles y se colocan sobre una banda transportadora.
+Este ejercicio implica el diseño y manufactura del efector final con un accionamiento neumático, así como la adquisición de los estantes, la codificación en RADIP de las respectivas rutinas del robot y su integración con una interfaz sobre el flexpendant para darle las instrucciones al robot.
+A lo largo del documento se deja evidencia del proceso para lograr el cumplimiento de los objetivos propuesto, incluyendo videos de simulación y funcionamiento real.
 
 ## 2. Objetivos
 -	Desarrollar un sistema robotizado para la automatización del proceso de Pick & Place y alistamiento de pedidos. 
