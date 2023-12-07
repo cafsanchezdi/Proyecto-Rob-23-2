@@ -101,6 +101,7 @@ En relación con el diseño del gripper, es pertinente señalar que se llevó a 
 
 <img width="771" alt="Screenshot 2023-12-07 at 00 07 23" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/954331c6-7ebe-4b28-998e-1a7bfae033d4">
 
+Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a cabo a partir de un émbolo neumático como base, encargado de desencadenar el movimiento de dos articulaciones tipo bisagra. Estas articulaciones, a su vez, están vinculadas a los dedos responsables de entrar en contacto con los elementos que requieren manipulación. Adicionalmente, en uno de los costados del gripper, se encuentra anclada la ventosa encargada de generar succión para facilitar la manipulación de los elementos. Este diseño ofrece una solución integrada que optimiza la funcionalidad del gripper en términos de movilidad y capacidad de manipulación.
 
 ### 4.2 Manufactura
 
