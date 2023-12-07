@@ -110,7 +110,7 @@ La elección de utilizar TPU (poliuretano termoplástico) como material de fabri
 
 <img width="486" alt="Screenshot 2023-12-07 at 01 33 03" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/17294289-345a-4ff9-ad12-16934feebd80">
 
-
+Finalmente, cabe destacar que la construcción del gripper se caracteriza por su diseño compacto y multifuncional, estando listo para ser ensamblado y sometido a pruebas en el robot industrial. La cuidadosa integración de sus componentes y la elección de materiales estratégicos confieren al gripper la versatilidad necesaria para abordar una variedad de tareas de manipulación. Este enfoque permite una implementación eficiente en el entorno industrial, destacando la preparación del sistema para enfrentar los desafíos operativos específicos para los cuales ha sido diseñado.
 
 <img width="370" alt="Screenshot 2023-12-07 at 01 32 28" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/796a3e01-1b6f-48d2-9b6f-3270c352d300">
 
