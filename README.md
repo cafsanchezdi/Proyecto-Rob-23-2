@@ -102,9 +102,11 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 ### 4.2 Manufactura
 
-
+En lo que respecta a la construcción del gripper, es relevante subrayar que todas sus piezas, con la excepción del pistón neumático y la ventosa de succión, fueron manufacturadas mediante impresión 3D. Esta elección se basó en la conveniencia que este proceso de fabricación proporciona para la rápida y eficiente creación de prototipos. En términos de materiales utilizados, se optó por el PLA (ácido poliláctico) y el TPU (poliuretano termoplástico), asegurando así la adecuada funcionalidad y durabilidad del gripper. La combinación de estos materiales junto con la tecnología de impresión 3D facilitó la obtención de un prototipo que cumple con los requisitos de agilidad y eficiencia en el proceso constructivo.
 
 <img width="650" alt="Screenshot 2023-12-07 at 01 31 55" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/f12f8874-3e8f-4e24-9623-9dd190256cb5">
+
+
 
 <img width="370" alt="Screenshot 2023-12-07 at 01 32 28" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/796a3e01-1b6f-48d2-9b6f-3270c352d300">
 
