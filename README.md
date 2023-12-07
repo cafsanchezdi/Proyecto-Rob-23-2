@@ -505,3 +505,9 @@ ENDMODULE
 ## 10. Análisis de Tiempos
 
 ## 11. Conclusiones
+-	Se logró desarrollar un sistema robotizado para la automatización del proceso de Pick & Place y alistamiento de pedidos con objetos de diferentes formas ubicados en varias posiciones de una estantería y colocados en diferentes lugares sobre una banda transportador. 
+-	Las simulaciones de funcionamiento del robot sobre RobotStudio, basados en los códigos desarrollados para el Pick & Place permitieron validar el correcto funcionamiento previo a su implementación en el robot industrial. 
+-	Se aprovechó un diseño de un efector final neumático existente en el LabSIR para desarrollar una nueva herramienta mejorada con elementos flexibles que mejoran el agarre del efector final
+-	Se implementó una interfaz gráfica sobre el flexpendant que permitió al operario seleccionar el objeto que se quería colocar y posicionarlo sobre la banda transportadora. Esto sólo se pudo hacer sobre un robot, ya que el otro robot no permitió el cargue de la información.
+-	Se puso en funcionamiento el código de programación de RAPID y la interfaz gráfica en el robot industrial del LabSIR y se logró el cumplimiento del Pick & Place de los objetos. El diseño del efector final permitió este ejercicio con diferentes formas y texturas. Sin embargo, es necesario tener cuidado con los movimientos del robot para dejar el estante, ya que se debe considerar la altura del objeto para que no golpee con la lámina del nivel superior.
+-	Se usaron los sistemas electroneumáticos en conjunto con el sistema robótico del LabSIR. Para ello se emplearon electroválvulas y circuitos neumáticos integrados con las salidas digitales del robot ABB:
