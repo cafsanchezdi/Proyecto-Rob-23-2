@@ -498,19 +498,26 @@ MODULE Module1
 ENDMODULE
 ```
 
-## 7. Alistamiento
-**Estantería:**
+### 7. Alistamiento
 
-La estantería consta de 6 posiciones designadas como 1, 2, 3, 4, 5, y 6, asignadas por pares en orden descendiente de los estantes. En cada posición se ubica una pieza a ser movida, en la siguiente imagen se puede apreciar la ubicación de las piezas en la estantería y las marcas que denotan las posiciones.
+#### 7.1 Elementos
+
+Antes de iniciar el proceso automatizado, es fundamental comprender la disposición y naturaleza de los elementos involucrados:
+
+- **Estantería BAGGEBO:**La estantería consta de 6 posiciones designadas como 1, 2, 3, 4, 5, y 6, asignadas por pares en orden descendiente de los estantes. En cada posición se ubica una pieza a ser movida, en la siguiente imagen se puede apreciar la ubicación de las piezas en la estantería y las marcas que denotan las posiciones.
 
 ![Estantería con las marcas de las posiciones.](./Imgs/Estant1.png)
+- **Objetos para la actividad de pick and place:** Se han seleccionado 3 tipos diferentes de objetos para este proyecto, que incluyen cajas, tarros, y botellas. La variabilidad en la geometría de estos objetos presenta un desafío interesante para el diseño y funcionalidad del gripper.
 
-**Posicionamiento de los elementos**
-
-Tanto la estantería como las piezas en cada una de las posiciones pueden ser ubicadas en el espacio de trabajo diestro del manipulador. Cualquier ajuste se realizará con el brazo inmóvil y solo al inicio del proceso.
-
-El gripper se encuentra rotado de manera que el plano de aproximación de la pinza sea perpendicular a la orientación de los objetos, facilitando de esta manera el agarre de los mismos.
 ### 7.2 Ubicaciones
+
+La ubicación precisa tanto de la estantería como de las piezas es esencial para el éxito del proceso automatizado. A continuación, se detallan las consideraciones clave:
+
+- **Posicionamiento inicial:** Tanto la estantería como las piezas deben ser colocadas en el espacio de trabajo del manipulador. Se requiere un ajuste preciso utilizando el brazo inmóvil al inicio del proceso.
+
+- **Alistamiento de la estantería:** Se deben ubicar 3 piezas distintas en 3 posiciones elegidas al azar para simular un escenario realista.
+
+Estas ubicaciones deben ser cuidadosamente coordinadas para garantizar un proceso fluido y eficiente durante la ejecución del sistema robotizado. Cualquier ajuste adicional necesario debe realizarse con precaución, asegurando que el brazo manipulador permanezca inmóvil durante estos ajustes.
 
 ## 8. Simulación Robot Studio
 
