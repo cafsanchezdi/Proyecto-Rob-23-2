@@ -493,7 +493,7 @@ ENDMODULE
 ## 7. Alistamiento
 
 ### 7.1 Elementos
-
+![Estantería con las marcas de las posiciones.](./Imgs/Estant1.png)
 ### 7.2 Ubicaciones
 
 ## 8. Simulación Robot Studio
