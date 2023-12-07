@@ -111,6 +111,10 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 <img width="1059" alt="Screenshot 2023-12-07 at 00 16 37" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/7201b2f6-21bc-42ac-a76f-94cc91842964">
 
+### 4.3.2 Plano Soporte Dedo
+
+<img width="1003" alt="Screenshot 2023-12-07 at 00 33 04" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/daab8854-2f70-481c-b2de-c5cc0291d6ef">
+
 
 ## 5. Acciones
 
