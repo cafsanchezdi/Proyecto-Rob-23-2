@@ -120,6 +120,11 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 <img width="1084" alt="Screenshot 2023-12-07 at 00 54 13" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/bb9f9da8-9534-4984-84e7-4e19231ce9cf">
 
+### 4.3.4 Plano Soporte Chupa
+
+<img width="1087" alt="Screenshot 2023-12-07 at 01 25 22" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/ef7ec52f-3aa8-46bc-a45c-a8398cc34234">
+
+
 ## 5. Acciones
 
 ### 5.1 Diagrama de flujo
