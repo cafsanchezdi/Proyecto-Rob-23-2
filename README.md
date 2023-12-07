@@ -504,11 +504,11 @@ ENDMODULE
 
 Antes de iniciar el proceso automatizado, es fundamental comprender la disposición y naturaleza de los elementos involucrados:
 
-- **Estantería BAGGEBO:**La estantería consta de 6 posiciones designadas como 1, 2, 3, 4, 5, y 6, asignadas por pares en orden descendiente de los estantes. En cada posición se ubica una pieza a ser movida, en la siguiente imagen se puede apreciar la ubicación de las piezas en la estantería y las marcas que denotan las posiciones.
+- **Estantería BAGGEBO:**La estantería consta de 6 posiciones designadas como 1, 2, 3, 4, 5, y 6, asignadas por pares en orden descendiente de los estantes. En cada posición se ubica una pieza a ser movida.
 
-![Estantería con las marcas de las posiciones.](./Imgs/Estant1.png)
 - **Objetos para la actividad de pick and place:** Se han seleccionado 3 tipos diferentes de objetos para este proyecto, que incluyen cajas, tarros, y botellas. La variabilidad en la geometría de estos objetos presenta un desafío interesante para el diseño y funcionalidad del gripper.
 
+![Estantería con las marcas de las posiciones.](./Imgs/Estant1.png)
 ### 7.2 Ubicaciones
 
 La ubicación precisa tanto de la estantería como de las piezas es esencial para el éxito del proceso automatizado. A continuación, se detallan las consideraciones clave:
