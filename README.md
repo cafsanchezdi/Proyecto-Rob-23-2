@@ -112,6 +112,9 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 <img width="1003" alt="Screenshot 2023-12-07 at 00 33 04" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/daab8854-2f70-481c-b2de-c5cc0291d6ef">
 
+### 4.3.2 Plano Flanche
+
+<img width="1108" alt="Screenshot 2023-12-07 at 00 45 15" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/22704a5b-6827-44bf-8726-6f45cd4d9a02">
 
 ## 5. Acciones
 
