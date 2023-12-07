@@ -102,6 +102,15 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 ### 4.2 Manufactura
 
+
+
+<img width="650" alt="Screenshot 2023-12-07 at 01 31 55" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/f12f8874-3e8f-4e24-9623-9dd190256cb5">
+
+<img width="370" alt="Screenshot 2023-12-07 at 01 32 28" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/796a3e01-1b6f-48d2-9b6f-3270c352d300">
+
+<img width="486" alt="Screenshot 2023-12-07 at 01 33 03" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/17294289-345a-4ff9-ad12-16934feebd80">
+
+
 ### 4.3 Planos
 
 ### 4.3.1 Plano Dedo
