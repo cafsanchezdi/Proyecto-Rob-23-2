@@ -35,11 +35,8 @@ En el repositorio de este proyecto se encuentra lo siguiente:
 - [7. Alistamiento](#7-alistamiento)
   - [7.1 Elementos](#71-elementos)
   - [7.2 Ubicaciones](#72-ubicaciones)
-- [8. Simulación RobotStudio](#8-simulación-robotstudio)
-- [9. Resultado Final](#9-resultado-final)
-  - [9.1 Video YouTube](#91-video-youtube)
-- [10. Análisis de tiempos](#10-análisis-de-tiempos)
-- [11. Conclusiones](#11-conclusiones)
+- [8. Resultado Final](#8-resultado-final)
+- [9. Conclusiones](#9-conclusiones)
 
 ## 1. Introducción
 El Pick & place es la operación o tarea de recoger cosas de un lugar y colocarlas en otro. Este tipo de actividades se encuadran dentro de las actividades con una menor ergonomía de toda la cadena de producción, por lo que representan una carga extra, mental y física, para los trabajadores. Este tipo de tarea logística existe en casi todas las empresas manufactureras y, aunque se suelen asociar al final de la línea de producción, se pueden ver en mayor o menor medida en segmentos intermedios en algunas plantas.
@@ -548,13 +545,9 @@ La ubicación precisa tanto de la estantería como de las piezas es esencial par
 
 Estas ubicaciones deben ser cuidadosamente coordinadas para garantizar un proceso fluido y eficiente durante la ejecución del sistema robotizado. Cualquier ajuste adicional necesario debe realizarse con precaución, asegurando que el brazo manipulador permanezca inmóvil durante estos ajustes.
 
-## 8. Simulación Robot Studio
+## 8. Resultado Final
 
-## 9. Resultado Final
-
-### 9.1 Video YouTube
-
-## 10. Conclusiones
+## 9. Conclusiones
 -	Se logró desarrollar un sistema robotizado para la automatización del proceso de Pick & Place y alistamiento de pedidos con objetos de diferentes formas ubicados en varias posiciones de una estantería y colocados en diferentes lugares sobre una banda transportador. 
 -	Las simulaciones de funcionamiento del robot sobre RobotStudio, basados en los códigos desarrollados para el Pick & Place permitieron validar el correcto funcionamiento previo a su implementación en el robot industrial. 
 -	Se aprovechó un diseño de un efector final neumático existente en el LabSIR para desarrollar una nueva herramienta mejorada con elementos flexibles que mejoran el agarre del efector final
