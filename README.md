@@ -102,6 +102,19 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 ### 4.2 Manufactura
 
+En lo que respecta a la construcción del gripper, es relevante subrayar que todas sus piezas, con la excepción del pistón neumático y la ventosa de succión, fueron manufacturadas mediante impresión 3D. Esta elección se basó en la conveniencia que este proceso de fabricación proporciona para la rápida y eficiente creación de prototipos. En términos de materiales utilizados, se optó por el PLA (ácido poliláctico) y el TPU (poliuretano termoplástico), asegurando así la adecuada funcionalidad y durabilidad del gripper. La combinación de estos materiales junto con la tecnología de impresión 3D facilitó la obtención de un prototipo que cumple con los requisitos de agilidad y eficiencia en el proceso constructivo.
+
+<img width="650" alt="Screenshot 2023-12-07 at 01 31 55" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/f12f8874-3e8f-4e24-9623-9dd190256cb5">
+
+La elección de utilizar TPU (poliuretano termoplástico) como material de fabricación para los dedos del gripper surge de la necesidad de manipular objetos con diversas geometrías de manera eficiente. La flexibilidad inherente de este material se ha seleccionado específicamente para simplificar esta tarea, permitiendo al gripper adaptarse a diferentes formas y tamaños de elementos a manipular de manera más efectiva. La capacidad del TPU para proporcionar cierto grado de deformación y elasticidad resulta fundamental para optimizar la versatilidad del gripper en la manipulación de objetos con variadas características geométricas.
+
+<img width="486" alt="Screenshot 2023-12-07 at 01 33 03" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/17294289-345a-4ff9-ad12-16934feebd80">
+
+Finalmente, cabe destacar que la construcción del gripper se caracteriza por su diseño compacto y multifuncional, estando listo para ser ensamblado y sometido a pruebas en el robot industrial. La cuidadosa integración de sus componentes y la elección de materiales estratégicos confieren al gripper la versatilidad necesaria para abordar una variedad de tareas de manipulación. Este enfoque permite una implementación eficiente en el entorno industrial, destacando la preparación del sistema para enfrentar los desafíos operativos específicos para los cuales ha sido diseñado.
+
+<img width="370" alt="Screenshot 2023-12-07 at 01 32 28" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/796a3e01-1b6f-48d2-9b6f-3270c352d300">
+
+
 ### 4.3 Planos
 
 ### 4.3.1 Plano Dedo
@@ -112,9 +125,18 @@ Conforme se evidencia en la imagen anterior, el modelado del Gripper se lleva a 
 
 <img width="1003" alt="Screenshot 2023-12-07 at 00 33 04" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/daab8854-2f70-481c-b2de-c5cc0291d6ef">
 
-### 4.3.2 Plano Flanche
+### 4.3.3 Plano Flanche
 
 <img width="1108" alt="Screenshot 2023-12-07 at 00 45 15" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/22704a5b-6827-44bf-8726-6f45cd4d9a02">
+
+### 4.3.4 Plano Flanche
+
+<img width="1084" alt="Screenshot 2023-12-07 at 00 54 13" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/bb9f9da8-9534-4984-84e7-4e19231ce9cf">
+
+### 4.3.4 Plano Soporte Chupa
+
+<img width="1087" alt="Screenshot 2023-12-07 at 01 25 22" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/ef7ec52f-3aa8-46bc-a45c-a8398cc34234">
+
 
 ## 5. Acciones
 
