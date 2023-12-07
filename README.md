@@ -539,9 +539,7 @@ Estas ubicaciones deben ser cuidadosamente coordinadas para garantizar un proces
 
 ### 9.1 Video YouTube
 
-## 10. Análisis de Tiempos
-
-## 11. Conclusiones
+## 10. Conclusiones
 -	Se logró desarrollar un sistema robotizado para la automatización del proceso de Pick & Place y alistamiento de pedidos con objetos de diferentes formas ubicados en varias posiciones de una estantería y colocados en diferentes lugares sobre una banda transportador. 
 -	Las simulaciones de funcionamiento del robot sobre RobotStudio, basados en los códigos desarrollados para el Pick & Place permitieron validar el correcto funcionamiento previo a su implementación en el robot industrial. 
 -	Se aprovechó un diseño de un efector final neumático existente en el LabSIR para desarrollar una nueva herramienta mejorada con elementos flexibles que mejoran el agarre del efector final
