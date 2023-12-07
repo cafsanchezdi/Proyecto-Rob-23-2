@@ -97,6 +97,11 @@ Cuidadosamente documentamos cada fase del proyecto, destacando desafíos enfrent
 
 ### 4.1 Diseño
 
+En relación con el diseño del gripper, es pertinente señalar que se llevó a cabo una análisis de los elementos que requerían manipulación. Este análisis tuvo como objetivo optimizar la geometría del gripper, permitiendo al robot manipular los elementos de manera eficiente. En virtud de esta consideración, se optó por la implementación de un gripper doble, compuesto por una pinza de dos dedos y una ventosa neumática. Esta elección se fundamenta en la búsqueda de una mayor versatilidad, proporcionando al sistema la capacidad de abordar una amplia variedad de manipulaciones de acuerdo con los elementos descritos en la guía.
+
+<img width="771" alt="Screenshot 2023-12-07 at 00 07 23" src="https://github.com/cafsanchezdi/Proyecto-Rob-23-2/assets/82252851/954331c6-7ebe-4b28-998e-1a7bfae033d4">
+
+
 ### 4.2 Manufactura
 
 ### 4.3 Planos
