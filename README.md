@@ -133,7 +133,7 @@ A continuación se presentan los diferentes diagramas de flujo para cada una de 
 
 ![](./Imgs/DiagramaAcercamiento.png)
 ## 6. Código RAPID
-
+A continuación se presenta el código en RAPID. Los comentarios explican cada una de las funcionalidades y variables que se utilizan.
 ```
 MODULE Module1
     ! Definimos los parámetros de las articulaciones que posicionan la estantería respecto al robot
@@ -524,6 +524,9 @@ MODULE Module1
     ENDPROC
 ENDMODULE
 ```
+La funcionalidad del robot se controla mediante una HMI realizada en ScreenMaker de RobotStudio para el FlexPendant de los robots, la cual se presenta en la siguiente imagen:
+
+![HMI.](./Imgs/HMI.jpg)
 
 ### 7. Alistamiento
 
