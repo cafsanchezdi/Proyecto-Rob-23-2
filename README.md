@@ -104,7 +104,19 @@ Cuidadosamente documentamos cada fase del proyecto, destacando desafíos enfrent
 ## 5. Acciones
 
 ### 5.1 Diagrama de flujo
+A continuación se presentan los diferentes diagramas de flujo para cada una de las funciones del código de RAPID. 
 
+
+![](./Imgs/DiagramaMain.png)
+![](./Imgs/DiagramaAgarrarGarra.png)
+![](./Imgs/DiagramaDejarGarra.png)
+![](./Imgs/DiagramaZonaSegura.png)
+![](./Imgs/DiagramaZonaSeguraBanda.png)
+![](./Imgs/DiagramaAcercar.png)
+![](./Imgs/DiagramaAcercarBanda.png)
+![](./Imgs/DiagramaTareaPrincipal.png)
+
+![](./Imgs/DiagramaAcercamiento.png)
 ## 6. Código RAPID
 
 ```
